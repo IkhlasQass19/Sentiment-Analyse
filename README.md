@@ -25,8 +25,6 @@ This project aims to perform sentiment analysis on various types of data: voice 
 - Deep Learning (for image analysis CNN)
 - Natural Language Processing (for text analysis + RNN)
 - Tkinter
-## License
-This project is licensed under the MIT License. See LICENSE for details.
 
 ## Contact
 For any questions or feedback, feel free to reach out to us via email or open an issue in this repository.
